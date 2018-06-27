@@ -13,6 +13,16 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
+"""
+/usr/bin/python2.7 /opt/jenkins-files/delete.py \
+     -s 'Vcenter.domain.com' \
+     -u 'user' \
+     -p 'password' \
+     -v 'vm-delete-01' \
+     -o '443' \
+     -t 'https'
+"""
+
 from __future__ import print_function
 
 import atexit
