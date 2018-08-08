@@ -1,5 +1,4 @@
 # Docs
 
-* Custom python Scripts for Jenkins.
+* Custom python Scripts for VMware.
 
-If you have Questions? contact Dieter, Karen, Temir
